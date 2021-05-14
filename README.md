@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack, Java language and AWS**
 
-- 💬 Ask me about **ML,CP,C++,C,python**
+- 💬 Ask me about **ML, CP, C++, C, python**
 
 - 📫 How to reach me **jovice786@gmail.com**
 
