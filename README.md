@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur016&label=Profile%20views&color=0e75b6&style=flat" alt="ankur016" /> </p>
 
-- 🔭 I’m currently working on **AWS**
+- 🔭 I’m currently working as Data Scientist 2 in Micron Technology
 
-- 🌱 I’m currently learning **MERN stack, Java language and AWS**
+- 🌱 I’m currently learning **MERN stack, Java language and React 
 
 - 💬 Ask me about **ML, CP, C++, C, python**
 
